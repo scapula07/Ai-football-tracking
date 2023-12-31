@@ -5,7 +5,7 @@
 
 - Install the ultralytics package
 ```
-pip install ultralytics==8.0.0
+pip install ultralytics
 ```
 
 - For macos

@@ -8,6 +8,14 @@
 pip install ultralytics==8.0.0
 ```
 
+- For macos
+
+  ```
+    export PATH="/Library/Frameworks/Python.framework/Versions/3.10/bin:$PATH"
+     /bin/chmod +x /usr/local/bin/yolo
+
+  ```
+
 - Do Tracking with mentioned command below
 # video 
 ```

@@ -19,10 +19,10 @@ pip install ultralytics
 - Do Tracking with mentioned command below
 # video 
 ```
-yolo task=detect mode=predict model=yolov8m-football.pt conf=0.25 imgsz=1280 line_thickness=1 source=test.mp4 show=true
+yolo task=detect mode=predict model=yolov8m-football.pt conf=0.25 imgsz=1280 line_weight=1 source=test.mp4 show=true
 ```
 ```
-yolo task=detect mode=predict model=yolov8s-football.pt conf=0.25 imgsz=1280 line_thickness=1 source=test.mp4 show=true
+yolo task=detect mode=predict model=yolov8s-football.pt conf=0.25 imgsz=1280 line_weight=1 source=test.mp4 show=true
 ```
 
 
